@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-=======
-#!/bin/bash
-find . -name '*.js' -type f -delete
->>>>>>> fbfd94ae6d3dfe8ff03915e8b6503d85d2478c45
